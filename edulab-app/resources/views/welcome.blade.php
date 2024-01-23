@@ -1,7 +1,7 @@
 @extends('layout.master')
 
 @section('judul')
-<h3><u><br><br>Tambah Siswa</u></h3>
+<h3><u><br><br>Edulab</u></h3>
 @endsection
 
 @push('scripts')
@@ -20,17 +20,7 @@
 @endpush
 
 @section('content')
-<table id="myTable" class="table table-bordered table-striped">
-    <thead>
-    <tr>
-      <th>Nama Siswa</th>
-      <th>Kelas</th>
-      <th>status</th>
-    </tr>
-    </thead>
-    <tbody>
-    
-    </tfoot>
+<h1>Selamat Datang</h1>
 
 </table>
 

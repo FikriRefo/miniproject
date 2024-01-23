@@ -21,15 +21,15 @@
         </a>
         <ul class="nav nav-treeview">
           <li class="nav-item">
-            <a href="/table" class="nav-link">
+            <a href="/student" class="nav-link">
               <i class="far fa-circle nav-icon"></i>
               <p>Show Table</p>
             </a>
           </li>
           <li class="nav-item">
-            <a href="/data-tables" class="nav-link">
+            <a href="/student/create" class="nav-link">
               <i class="far fa-circle nav-icon"></i>
-              <p>Data Tabel</p>
+              <p>Tambah Siswa</p>
             </a>
           </li>
         </ul>
